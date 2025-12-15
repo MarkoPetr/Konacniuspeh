@@ -1,0 +1,7 @@
+{
+  "name": "Konacnidigpapir_new",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
